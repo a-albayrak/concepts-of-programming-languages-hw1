@@ -1,4 +1,4 @@
-# Concepts of Programming Languages Homework 1: Transaction Management Application
+# Concepts of Programming Languages Homework 1: Transaction Data Processing and Analysis in Scheme
 
 ## Overview
 In this programming assignment, you are tasked with writing a Scheme (Racket) program. The goal is to implement various functions that process and retrieve data from transaction tables. These functions cover different functionalities such as retrieving items, categories, customer information, and calculating transaction data.
